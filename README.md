@@ -4,6 +4,7 @@ A list of all Galaxy Zoo repos on GitHub.
 
 Please add any relevant repo. Some will be private.
 
+
 ## Campaigns
 
 - [DECaLS](https://github.com/zooniverse/decals/)
@@ -19,7 +20,7 @@ Please add any relevant repo. Some will be private.
 
 ## Aggregation
 
-- [https://github.com/mwalmsley/gz-panoptes-reduction]
+- [gz-panoptes-reduction](https://github.com/mwalmsley/gz-panoptes-reduction)
 - (Brooke, Zooniverse)
 
 ## Machine Learning
